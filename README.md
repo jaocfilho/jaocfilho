@@ -4,7 +4,10 @@ As a software engineer, I find joy in the process of continuous learning, honing
 
 #### 🔭 What I'm Currently Working On
 
-I'm currently working on IntelliSyncAI. It's a no-code SaaS that allows users to talk with their documents as a GPT chatbot.
+I'm currently working on [IntelliSyncAI](https://www.intellisyncai.com/). It's a no-code SaaS that allows users to talk with their documents as a GPT chatbot.
+The waitlist is online and I welcome you all to visit my landing page.
+
+https://www.intellisyncai.com/
 
 #### 🤝 Let's Connect
 
