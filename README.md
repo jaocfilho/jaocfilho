@@ -1,5 +1,7 @@
 ### Hi, I'm Augusto 👋
 
+Trying to make the world better through open source software, you can see my work [here](https://github.com/jaocfilho/odyssey)
+
 As a software engineer, I find joy in the process of continuous learning, honing my skills, and pushing the boundaries of what's possible. I'm driven by a profound love for software engineering and the transformative power it holds.
 
 #### 🔭 What I'm Currently Working On
