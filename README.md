@@ -19,6 +19,10 @@ Thank you for visiting my profile! Feel free to explore my repositories and don'
 
 Happy coding! ✨
 
+#### Resume
+
+You can check my resume [here](https://1drv.ms/b/s!ApcrtYUkP7tZwndW7QV3QuFNk1f9?e=ASBGWO)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
