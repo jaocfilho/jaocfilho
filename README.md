@@ -21,7 +21,7 @@ Happy coding! ✨
 
 #### Resume
 
-You can check my resume [here](https://1drv.ms/b/s!ApcrtYUkP7tZwxefNaC1LSHmfUb9?e=yBW1zp)
+You can check my resume [here](https://1drv.ms/w/s!ApcrtYUkP7tZwzviZMWEAKP5RvaM?e=mfwgNY)
 
 ---
 
